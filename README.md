@@ -1,4 +1,5 @@
 Employee Diversity Project
+(My first every SQL project)
 
 Overview
 Welcome to my employee project repository! This project aims to show how I can use SQL for people analysis in an organisation.
